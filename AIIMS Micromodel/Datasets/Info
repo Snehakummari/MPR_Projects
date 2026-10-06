@@ -1,0 +1,1 @@
+Datasets are Q-A format for each of the 5 departments - admin, billing and insurance, doctor and appointments, pharmacy, emergency . Use them to run the ipynb and generate model pkl and pt files used as RAG later.
